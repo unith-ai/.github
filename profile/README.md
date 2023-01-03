@@ -1,4 +1,18 @@
-![unith-logo](img/unith-logo.png)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="prfile/img/unith-logo-light.png"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="prfile/img/unith-logo-dark.png"
+  />
+  <img
+    alt="Shows a black logo in light color mode and a white one in dark color mode."
+  />
+</picture>
+
+
 
 ### Coming to a future near you. Create engaging, user-centric conversations in real time with AI-powered digital humans. 
 

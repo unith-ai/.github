@@ -1,11 +1,11 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="prfile/img/unith-logo-light.png"
+    srcset="img/unith-logo-light.png"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="prfile/img/unith-logo-dark.png"
+    srcset="img/unith-logo-dark.png"
   />
   <img
     alt="Shows a black logo in light color mode and a white one in dark color mode."
